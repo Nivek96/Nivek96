@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Web Developer | Web Designer | Mobile Developer, I am interested and involving in technology area.
 I use React Native to develop my apps and I am about to learn how to build theme with wordpress.
 
-<img source="https://github-readme-stats.vercel.app/api?username=nivek96&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img source="https://github-readme-stats.vercel.app/api?username=nivek96&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
