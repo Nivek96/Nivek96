@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Web Developer | Web Designer | Mobile Developer, I am interested and involving in technology area.
-I use React Native to develop my apps and I am about to learn how to build theme with wordpress.
+Web Developer | Web Designer, I am mostly a front-end web designer and use HTML - CSS with some JS knowledge. I'm currently working on developping my area with REACT JS, I already have a junior level in it, my aim is to pass to intermediate so if you want to mentor me, you are welcome to give me some tips and advices.
 
 <img source="https://github-readme-stats.vercel.app/api?username=nivek96&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
